@@ -14,57 +14,53 @@
 
 As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teóricas expositivas serão realizadas em sala de aula, enquanto aulas práticas serão realizadas no laboratórios da universidade, podendo serem síncronas ou assíncronas. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.  
 
-Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
+Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previstas de cada aula e o conteúdo esperado
 
--  **24/02** - Aula 01: Introdução a disciplina DCE529
--  **25/02** - Aula 02: Complexidade de algoritmos e classes de complexidade
--  **26/02** - Aula 03: NP-Completude - Disponibilização do TP1
--  **10/03** - Aula 04: Funções de recorrência e teorema mestre
--  **11/03** - Aula 05: Dúvidas para Prova 01
--  **12/03** - Aula 06: Prova 01
--  **17/03** - Aula 07: Apresentação do TP1
--  **18/03** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - Disponibilização do TP2
--  **24/03** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos
--  **25/03** - Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica
--  **31/03** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
--  **01/04** - Aula 13: Algoritmos de busca em grafos - profundidade e largura
--  **07/04** - Aula 15: Dúvidas para Prova 02
--  **08/04** - Aula 16: Apresentação do TP2
--  **09/04** - Aula 17: Prova 02
--  **14/04** - Aula 18: Apresentação do TP2 - Disponibilização do TP3
--  **15/04** - Aula 19: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-Ford
--  **28/04** - Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
--  **29/04** - Aula 22: Ciclos eulerianos e hamiltonianos; Caixeiro viajante
--  **05/05** - Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
--  **06/05** - Aula 25: Fluxo em redes (teoria)
--  **12/05** - Aula 27: Tempo livre para estudos 
--  **13/05** - Aula 28: Algoritmo de fluxo (Ford-Fulkerson)
--  **19/05** - Aula 29: Apresentação do TP3
--  **20/05** - Aula 30: Apresentação do TP3 - Disponibilização do TP4
--  **27/05** - Aula 32: Prova 03
--  **02/06** - Aula 34: Introdução a heurísticas e heurísticas construtivas
--  **03/06** - Aula 35: Vizinhança e busca local
--  **09/06** - Aula 37: Heurísticas evolutivas
--  **10/06** - Aula 38: Algoritmos aproximativos
--  **16/06** - Aula 40: Tempo para estudos
--  **17/06** - Aula 41: Dúvidas para a Prova 04
--  **18/06** - Aula 41: Prova 04
--  **23/06** - Aula 42: Apresentação do TP4
--  **24/06** - Aula 43: Apresentação do TP4; Correção da prova e comentários gerais
--  **25/06** - Aula 44: Estudos para recuperação de aprendizagem
--  **01/07** - Aula 45: Recuperação de aprendizagem e fim do semestre
-
-Abaixo segue o planejamento das aulas práticas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
-
--  **26/03** - Aula 11: Implementação do TP2
--  **02/04** - Aula 14: Implementação de estruturas de grafos
--  **16/04** - Aula 20: Implementação do TP3
--  **30/04** - Aula 23: Implementação de algoritmos de caminho mínimo
--  **07/05** - Aula 26: Implementação de algoritmos de árvore geradora mínima
--  **07/05** - Aula 29: Implementação de Ford-Fulkerson
--  **28/05** - Aula 33: Implementação do TP04
--  **04/06** - Aula 36: Implementação do TP04
--  **11/06** - Aula 39: Implementação do TP04
+-  **02/03** - Aula 01: Introdução a disciplina DCE529
+-  **03/03** - Aula 02: Complexidade de algoritmos e classes de complexidade
+-  **04/03** - Aula 03: NP-Completude - Disponibilização do TP1
+-  **09/03** - Aula 04: Funções de recorrência e teorema mestre
+-  **10/03** - Aula 05: Dúvidas para Prova 01
+-  **11/03** - Aula 06: Prova 01
+-  **16/03** - Aula 07: Apresentação do TP1
+-  **17/03** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - Disponibilização do TP2
+-  **18/03** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos
+-  **23/03** - Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica
+-  **24/03** - Aula 11: Conceitos de grafos e estruturas de dados para representação de grafos
+-  **25/03** - Aula 12: Implementação do TP2 (prática)
+-  **06/04** - Aula 13: Algoritmos de busca em grafos - profundidade e largura
+-  **07/04** - Aula 14: Dúvidas para Prova 02
+-  **08/04** - Aula 15: Prova 02 (Sala B-201)
+-  **13/04** - Aula 16: Apresentação do TP2
+-  **14/04** - Aula 17: Apresentação do TP2 - Disponibilização do TP3
+-  **15/04** - Aula 18: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-Ford
+-  **22/04** - Aula 19: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
+-  **27/04** - Aula 20: Ciclos eulerianos e hamiltonianos; Caixeiro viajante
+-  **28/04** - Aula 21: Implementação do TP3 (prática) 
+-  **29/04** - Aula 22: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
+-  **04/05** - Aula 23: Fluxo em redes
+-  **05/05** - Aula 24: Algoritmo de fluxo (Ford-Fulkerson)
+-  **06/05** - Aula 25: Implementação do TP3 e dúvidas para Prova 03 (prática)
+-  **11/05** - Aula 26: Prova 03
+-  **12/05** - Aula 27: Apresentação do TP3
+-  **13/05** - Aula 28: Apresentação do TP3 - Disponibilização do TP4
+-  **18/05** - Aula 29: Introdução a heurísticas e heurísticas construtivas
+-  **19/05** - Aula 30: Vizinhança e busca local
+-  **20/05** - Aula 31: Implementação do TP4 (prática)
+-  **25/05** - Aula 32: Heurísticas evolutivas
+-  **26/05** - Aula 33: Algoritmos aproximativos
+-  **27/05** - Aula 34: Implementação do TP4 (prática)
+-  **01/06** - Aula 35: Dúvidas para Prova 04
+-  **02/06** - Aula 36: Prova 04
+-  **03/06** - Aula 37: Implementação do TP4 (prática)
+-  **08/06** - Aula 38: Apresentação do TP4
+-  **09/06** - Aula 39: Apresentação do TP4
+-  **10/06** - Aula 40: Tempo para estudos (sem aula)
+-  **15/06** - Aula 41: Dúvidas para prova de recuperação de aprendizagem
+-  **16/06** - Aula 42: Tempo para estudos (sem aula)
+-  **17/06** - Aula 43: Tempo para estudos (sem aula)
+-  **22/06** - Aula 44: Recuperação de aprendizagem
+-  **23/06** - Aula 45: Encerramento do semestre
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. Toda e qualquer mudança será refletida aqui e comunicada por e-mail o mais rapidamente o possível.
 
@@ -110,22 +106,13 @@ Se você utilizar o material desta disciplina de qualquer maneira, por favor, ci
 
 Iago A. Carvalho (2026), DCE797. Online: https://github.com/iagoac/dce797 Version 6.00; GNU General Public License v3.0.
 
-  
-  
-
-> @Misc{CarvalhoDCE529,
->
-> title={DCE529 - Algoritmo e Estruturas de Dados III},
->
-> author={Iago A. Carvalho},
->
-> howPublished={\url{https&#58;//github\.com/iagoac/dce797}},
->
-> year={2026},
-> 
-> note={Version 6.00; GNU General Public License v3.0}
->
-> }
+> @Misc{CarvalhoDCE797,  
+title={DCE797 - Algoritmo e Estruturas de Dados III},  
+author={Iago A. Carvalho},  
+howPublished={\url{https&#58;//github\.com/iagoac/dce797}},  
+year={2026},  
+note={Version 6.00; GNU General Public License v3.0}  
+}
 
 
 Iago A. Carvalho
