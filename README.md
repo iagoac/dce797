@@ -1,4 +1,4 @@
-# Disciplina DCE529 - Algoritmos e Estruturas de Dados III (AEDs III)
+# Disciplina DCE797 - Algoritmos e Estruturas de Dados III (AEDs III)
 
 ## Prof. Iago A. Carvalho
 
@@ -16,7 +16,7 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 
 Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previstas de cada aula e o conteúdo esperado
 
--  **02/03** - Aula 01: [Introdução a disciplina DCE529](slides/aula_01.pdf)
+-  **02/03** - Aula 01: [Introdução a disciplina DCE797](slides/aula_01.pdf)
 -  **03/03** - Aula 02: [Complexidade de algoritmos e classes de complexidade](slides/aula_02.pdf)
 -  **04/03** - Aula 03: [NP-Completude](slides/aula_03.pdf) - [Disponibilização do TP1](trabalhos/tp_01.pdf)
 -  **09/03** - Aula 04: Funções de recorrência e teorema mestre
