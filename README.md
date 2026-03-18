@@ -23,7 +23,7 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **10/03** - Aula 05: Dúvidas para Prova 01
 -  **11/03** - Aula 06: Prova 01
 -  **16/03** - Aula 07: Apresentação do TP1
--  **17/03** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - Disponibilização do TP2
+-  **17/03** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - [Disponibilização do TP2](trabalhos/tp_02/descricao.pdf)
 -  **18/03** - Aula 09: [Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](slides/aula_09.pdf)
 -  **23/03** - Aula 10: [Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_10.pdf)
 -  **24/03** - Aula 11: [Conceitos de grafos e estruturas de dados para representação de grafos](slides/aula_11.pdf)
