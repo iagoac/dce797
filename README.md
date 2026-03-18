@@ -24,9 +24,9 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **11/03** - Aula 06: Prova 01
 -  **16/03** - Aula 07: Apresentação do TP1
 -  **17/03** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - Disponibilização do TP2
--  **18/03** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos
--  **23/03** - Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica
--  **24/03** - Aula 11: Conceitos de grafos e estruturas de dados para representação de grafos
+-  **18/03** - Aula 09: [Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](slides/aula_09.pdf)
+-  **23/03** - Aula 10: [Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_10.pdf)
+-  **24/03** - Aula 11: [Conceitos de grafos e estruturas de dados para representação de grafos](slides/aula_11.pdf)
 -  **25/03** - Aula 12: Implementação do TP2 (prática)
 -  **06/04** - Aula 13: Algoritmos de busca em grafos - profundidade e largura
 -  **07/04** - Aula 14: Dúvidas para Prova 02
@@ -74,9 +74,9 @@ As avaliações somarão um total de 100 pontos. Um aluno é considerado **aprov
 
 ---
 
-| P1 | P2 | P3 | TP1 | TP2 | TP3 | TP4 |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 25 pontos | 25 pontos | 25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos|
+|    P1     |    P2     |    P3     |     TP1     |     TP2     |     TP3     |     TP4     |
+| :-------: | :-------: | :-------: | :---------: | :---------: | :---------: | :---------: |
+| 25 pontos | 25 pontos | 25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos |
 
 ---
 
