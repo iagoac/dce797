@@ -28,7 +28,7 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **23/03** - Aula 10: [Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_10.pdf)
 -  **24/03** - Aula 11: [Conceitos de grafos e estruturas de dados para representação de grafos](slides/aula_11.pdf)
 -  **25/03** - Aula 12: Implementação do TP2 (prática)
--  **06/04** - Aula 13: Algoritmos de busca em grafos - profundidade e largura
+-  **06/04** - Aula 13: [Algoritmos de busca em grafos - profundidade e largura](slides/aula_13.pdf)
 -  **07/04** - Aula 14: Dúvidas para Prova 02
 -  **08/04** - Aula 15: Prova 02 (Sala B-201)
 -  **13/04** - Aula 16: Apresentação do TP2
