@@ -210,12 +210,6 @@ def print_graph(G):
     # Print the number of nodes and number of edges
     print(G.number_of_nodes(), G.number_of_edges())
 
-    # Print the location of each node
-    for node in G.nodes():
-        pos = G.nodes[node]['pos']
-        class_ = G.nodes[node]['class']
-        print(round(pos[0], 2), round(pos[1], 2), class_)
-
     # Manually flush the buffer to ensure immediate display
     # This is necessary because nx.write_edgelist uses a buffered writer
     # Without this, the write_edgelist output may be written before the previous prints
