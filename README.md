@@ -40,13 +40,13 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **29/04** - Aula 22: [Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_22.pdf)
 -  **04/05** - Aula 23: [Fluxo em redes](slides/aula_23.pdf)
 -  **05/05** - Aula 24: [Algoritmo de fluxo (Ford-Fulkerson)](slides/aula_24.pdf)
--  **06/05** - Aula 25: Implementação do TP3 e dúvidas para Prova 03 (prática)
--  **11/05** - Aula 26: Prova 03
--  **12/05** - Aula 27: Apresentação do TP3
--  **13/05** - Aula 28: Apresentação do TP3 - Disponibilização do TP4
--  **18/05** - Aula 29: Introdução a heurísticas e heurísticas construtivas
--  **19/05** - Aula 30: Vizinhança e busca local
--  **20/05** - Aula 31: Implementação do TP4 (prática)
+-  **06/05** - Aula 25: ~Implementação do TP3 e dúvidas para Prova 03 (prática)~
+-  **11/05** - Aula 26: ~Prova 03~
+-  **12/05** - Aula 27: Prova 03
+-  **13/05** - Aula 28: Introdução a heurísticas e heurísticas construtivas
+-  **18/05** - Aula 29: Apresentação do TP3 - Disponibilização do TP4
+-  **19/05** - Aula 30: Apresentação do TP3
+-  **20/05** - Aula 31: Vizinhança e busca local
 -  **25/05** - Aula 32: Heurísticas evolutivas
 -  **26/05** - Aula 33: Algoritmos aproximativos
 -  **27/05** - Aula 34: Implementação do TP4 (prática)
