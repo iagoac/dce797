@@ -49,15 +49,15 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **20/05** - Aula 31: Vizinhança e busca local - [Parte 1](slides/aula_31-1.pdf); [Parte 2](slides/aula_31-2.pdf)
 -  **25/05** - Aula 32: [Heurísticas evolutivas](slides/aula_32.pdf)
 -  **26/05** - Aula 33: [Algoritmos aproximativos](slides/aula_33.pdf)
--  **27/05** - Aula 34: Implementação do TP4 (prática)
--  **01/06** - Aula 35: Dúvidas para Prova 04
--  **02/06** - Aula 36: Prova 04
--  **03/06** - Aula 37: Implementação do TP4 (prática)
--  **08/06** - Aula 38: Apresentação do TP4
--  **09/06** - Aula 39: Apresentação do TP4
--  **10/06** - Aula 40: Tempo para estudos (sem aula)
--  **15/06** - Aula 41: Dúvidas para prova de recuperação de aprendizagem
--  **16/06** - Aula 42: Tempo para estudos (sem aula)
+-  **27/05** - ~Aula 34: Implementação do TP4 (prática)~
+-  **01/06** - Aula 35: Sem aula nesta data
+-  **02/06** - Aula 36: Dúvidas para Prova 04
+-  **03/06** - Aula 37: Prova 04
+-  **08/06** - Aula 38: Tempo para preparação do TP4
+-  **09/06** - Aula 39: Tempo para preparação do TP4
+-  **10/06** - Aula 40: Tempo para preparação do TP4
+-  **15/06** - Aula 41: Apresentação do TP4
+-  **16/06** - Aula 42: Apresentação do TP4
 -  **17/06** - Aula 43: Tempo para estudos (sem aula)
 -  **22/06** - Aula 44: Recuperação de aprendizagem
 -  **23/06** - Aula 45: Encerramento do semestre
