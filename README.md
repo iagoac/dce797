@@ -52,9 +52,9 @@ Abaixo segue o planejamento das aulas teóricas e práticas, com as datas previs
 -  **27/05** - ~Aula 34: Implementação do TP4 (prática)~
 -  **01/06** - Aula 35: Sem aula nesta data
 -  **02/06** - Aula 36: Dúvidas para Prova 04
--  **03/06** - Aula 37: Prova 04
+-  **03/06** - ~Aula 37: Prova 04~
 -  **08/06** - Aula 38: Tempo para preparação do TP4
--  **09/06** - Aula 39: Tempo para preparação do TP4
+-  **09/06** - Aula 39: Prova 04
 -  **10/06** - Aula 40: Tempo para preparação do TP4
 -  **15/06** - Aula 41: Apresentação do TP4
 -  **16/06** - Aula 42: Apresentação do TP4
